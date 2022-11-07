@@ -1,0 +1,8 @@
+names:
+- container
+- holder
+- person
+- truck
+nc: 4
+train: asdf-4/train/images
+val: asdf-4/test/images
